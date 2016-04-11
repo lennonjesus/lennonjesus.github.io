@@ -1,3 +1,3 @@
-#Lennon Jesus Resume
+#Lennon Jesus
 
-[lennonjesus.com](lennonjesus.com)
+[lennonjesus.com](http://lennonjesus.com)
